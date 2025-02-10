@@ -1,6 +1,6 @@
 # Project Proposal
 
-## Music Trends Analysis
+## Music Consumption Trends Analysis
 ### Description:
 Analyze the evolution of music trends by collecting data from Spotify and Billboard. The project will explore how factors like artist popularity, genre shifts, and streaming numbers change over time.
 
