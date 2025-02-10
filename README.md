@@ -15,7 +15,7 @@ Data Collection:
 What Data: Artist names, track titles, genres, streaming counts, chart positions, release dates, etc.
 
 How to Collect:
-Use the Spotify API (via libraries like spotipy) to fetch current and historical streaming data.
+Use the Spotify API (via libraries like Spotipy) to fetch current and historical streaming data.
 Scrape Billboard charts using Python libraries such as requests and BeautifulSoup to extract chart positions and other metadata.
 
 Modeling the Data:
